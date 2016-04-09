@@ -11,8 +11,8 @@ description: |-
   this disease get kidney stones, they cannot control their muscles,
   and they develop an irresistible urge to try to hurt themselves
   (self-injurious behaviour).
-datePublished: '2016-04-09T05:50:27.610Z'
-dateModified: '2016-04-09T05:49:41.178Z'
+datePublished: '2016-04-09T05:52:29.643Z'
+dateModified: '2016-04-09T05:50:31.385Z'
 title: LND Europe - Welcome
 author: []
 sourcePath: _posts/2016-04-09-lnd-europe-welcome.md
