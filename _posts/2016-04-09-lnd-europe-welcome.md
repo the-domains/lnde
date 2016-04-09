@@ -11,8 +11,8 @@ description: |-
   this disease get kidney stones, they cannot control their muscles,
   and they develop an irresistible urge to try to hurt themselves
   (self-injurious behaviour).
-datePublished: '2016-04-09T06:18:02.466Z'
-dateModified: '2016-04-09T06:17:38.553Z'
+datePublished: '2016-04-09T06:21:46.010Z'
+dateModified: '2016-04-09T06:21:22.755Z'
 title: LND Europe - Welcome
 author: []
 sourcePath: _posts/2016-04-09-lnd-europe-welcome.md
@@ -27,7 +27,7 @@ url: lnd-europe-welcome/index.html
 _type: Article
 
 ---
-![LNDE - European Federation Lesch-Nyhan Disease](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a60f027b67afc43d859f92b69112868049b07ee7.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6e5a71b7-b5ee-4bdf-a21a-ed270531b46e.png)
 
 ## Families from all over Europe are
 working together to defeat Lesch-Nyhan Disease
