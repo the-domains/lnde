@@ -1,7 +1,7 @@
 name: LNDE
 favicon: null
 layout_spectrum: 0.75
-typography_spectrum: 0.76046
+typography_spectrum: 0.47803
 title: LNDE - European Federation Lesch-Nyhan Disease
 cta:
   domain: null
@@ -18,12 +18,12 @@ opengraph:
 color:
   brandColors:
     - '#ffffff'
-    - '#003399'
-    - '#000000'
-    - '#ffcc00'
-    - '#4663ae'
-  brandStrength: 0.5
-  lightness: 1
+    - '#0a3797'
+    - '#040404'
+    - '#fecb2f'
+    - '#516aaf'
+  brandStrength: 0.75
+  lightness: 0.8125
   saturation: 0.5
   rhythmicContrast: 0
 purpose: []
