@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[LNDE]]></title>
-        <description><![CDATA[LNDE]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[LNDE - European Federation Lesch-Nyhan Disease]]></title>
+        <description><![CDATA[LNDE - European Federation Lesch-Nyhan Disease]]></description>
+        <link>https://thegrid.ai/lnde/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Apr 2016 04:25:08 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 09 Apr 2016 05:11:40 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/lnde/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Families from all over Europe are
 working together to defeat Lesch-Nyhan Disease]]></title>
@@ -15,9 +15,9 @@ condition that affects children at a very young age. Children with
 this disease get kidney stones, they cannot control their muscles,
 and they develop an irresistible urge to try to hurt themselves
 (self-injurious behaviour).</p></article>]]></description>
-            <link>undefinedlnd-europe-welcome/index.html</link>
+            <link>https://thegrid.ai/lnde/lnd-europe-welcome/index.html</link>
             <guid isPermaLink="false">1284b980-09bc-4ec1-a781-f55d323b31aa</guid>
-            <pubDate>Sat, 09 Apr 2016 04:24:53 GMT</pubDate>
+            <pubDate>Sat, 09 Apr 2016 05:11:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
