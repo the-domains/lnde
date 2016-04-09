@@ -11,8 +11,8 @@ description: |-
   this disease get kidney stones, they cannot control their muscles,
   and they develop an irresistible urge to try to hurt themselves
   (self-injurious behaviour).
-datePublished: '2016-04-09T05:11:39.622Z'
-dateModified: '2016-04-09T05:11:18.956Z'
+datePublished: '2016-04-09T05:16:30.419Z'
+dateModified: '2016-04-09T05:16:15.040Z'
 title: LND Europe - Welcome
 author: []
 sourcePath: _posts/2016-04-09-lnd-europe-welcome.md
@@ -52,12 +52,13 @@ forces by setting up a European Federation.
 **If you are interested in
 helping us, please contact us:**
 
-## [**contact@LNDE.org**][0]
+**[contact@LNDE.org][0]**
 
-https://www.facebook.com/LNDEurope
+[https://www.facebook.com/LNDEurope][1]
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3474214eb44e56178fd7452217b191fb0fb4b965.png)
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9f2052e766d61aaa0346291b302a836481f7e924.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/09c9f9a1-c90d-42d2-9a80-740817f977ca.png)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/924a02a78347fb928809068156c15c846671fea1.png)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6feca2788e5ca6200f5079ebb05eea159a67233a.png)
 
 [0]: mailto:contact@LNDE.org
+[1]: https://www.facebook.com/LNDEurope
