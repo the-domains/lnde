@@ -11,18 +11,18 @@ description: |-
   this disease get kidney stones, they cannot control their muscles,
   and they develop an irresistible urge to try to hurt themselves
   (self-injurious behaviour).
-datePublished: '2016-04-09T04:24:53.747Z'
-dateModified: '2016-04-09T04:24:08.115Z'
+datePublished: '2016-04-09T05:11:39.622Z'
+dateModified: '2016-04-09T05:11:18.956Z'
 title: LND Europe - Welcome
 author: []
+sourcePath: _posts/2016-04-09-lnd-europe-welcome.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-09-lnd-europe-welcome.md
-published: true
 url: lnd-europe-welcome/index.html
 _type: Article
 
@@ -55,13 +55,9 @@ helping us, please contact us:**
 ## [**contact@LNDE.org**][0]
 
 https://www.facebook.com/LNDEurope
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/acaa6b8f-ae82-4721-b237-9b711c696025.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e1d4b9c9-3a95-41d1-8b29-8149895e7408.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e5d988b0-6b69-40ce-a03b-860e1c063ae6.png)
-
-  
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e935a327-6d0d-4c89-a42f-6d61c84c2b68.png)
-
-
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3474214eb44e56178fd7452217b191fb0fb4b965.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9f2052e766d61aaa0346291b302a836481f7e924.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/924a02a78347fb928809068156c15c846671fea1.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6feca2788e5ca6200f5079ebb05eea159a67233a.png)
 
 [0]: mailto:contact@LNDE.org
