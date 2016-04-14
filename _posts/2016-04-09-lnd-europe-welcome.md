@@ -3,7 +3,7 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: |-
   Lesch-Nyhan Disease (LND) is a rare
@@ -11,8 +11,8 @@ description: |-
   this disease get kidney stones, they cannot control their muscles,
   and they develop an irresistible urge to try to hurt themselves
   (self-injurious behaviour).
-datePublished: '2016-04-09T14:18:36.506Z'
-dateModified: '2016-04-09T06:27:16.061Z'
+datePublished: '2016-04-14T02:39:40.228Z'
+dateModified: '2016-04-09T14:22:13.279Z'
 title: LND Europe - Welcome
 author: []
 sourcePath: _posts/2016-04-09-lnd-europe-welcome.md
