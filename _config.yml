@@ -25,11 +25,11 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: Members
-    id: d73a05a0-b7a9-4157-9cf0-9874baad08bc
-    type: content
   - name: Home
     id: 1284b980-09bc-4ec1-a781-f55d323b31aa
+    type: content
+  - name: Members
+    id: d73a05a0-b7a9-4157-9cf0-9874baad08bc
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/c5dc38ee-fd42-4a5c-a43a-77f91d566235.ico
