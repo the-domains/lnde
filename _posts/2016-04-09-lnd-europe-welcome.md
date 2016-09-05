@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-09-02T08:46:36.781Z'
+datePublished: '2016-09-02T08:50:53.517Z'
 sourcePath: _posts/2016-04-09-lnd-europe-welcome.md
 inFeed: true
 isBasedOnUrl: 'http://www.lesch-nyhan-action.org'
@@ -10,7 +10,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-09-02T08:46:36.236Z'
+dateModified: '2016-09-02T08:50:52.616Z'
 title: >-
   Families from all over Europe are working together to defeat Lesch-Nyhan
   Disease
@@ -42,4 +42,10 @@ In 2014, these groups are joining forces by setting up a European Federation.
 
 **[contact@LNDE.org][0]**
 
+[www.LNDE.org][1]
+
+[https://www.facebook.com/LNDEurope][2]
+
 [0]: mailto:contact@LNDE.org
+[1]: http://www.LNDE.org/ "www.LNDE.org"
+[2]: https://www.facebook.com/LNDEurope/ "https://www.facebook.com/LNDEurope/"
